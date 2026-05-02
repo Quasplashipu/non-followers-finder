@@ -1,5 +1,6 @@
 # [NFF] Non-Followers Finder (aka unfollowers)
-A simple script that just uses inforamtion that instagram provides, compares 2 lists, and outputs a list of people who you follow, but dont follow you and checks for deativated accounts if you want.
+A simple script project to train and see the limitations of C. The script just uses inforamtion that instagram provides, compares 2 lists, and outputs a list of people who you follow, but dont follow you and checks for deativated accounts if you want.
+
 
 ## Features
 * Single executable file.
