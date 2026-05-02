@@ -7,7 +7,7 @@ A simple script that just uses inforamtion that instagram provides, compares 2 l
 * Automatically unzips your data, locates the correct HTML files, and extracts the usernames.
 * Generates an output HTML in a similar style to the original
 * Includes an optional, rate-limited mode to detect and remove deleted/deactivated accounts from your final list using your browser session cookie.
-* 
+  
 ## How to Use
 
 ### Step 1: Request Your Instagram Data
